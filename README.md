@@ -16,12 +16,12 @@ https://cli.angular.io
 
 
 
-Po pobraniu projektu należy:
-cd MyApp.API
-dotnet watch run
+Po pobraniu projektu należy:  
+cd MyApp.API  
+dotnet watch run  
 
-w nowym terminalu
-cd MyApp-SPA
-npm install
-ng serve
+w nowym terminalu  
+cd MyApp-SPA  
+npm install  
+ng serve  
 
